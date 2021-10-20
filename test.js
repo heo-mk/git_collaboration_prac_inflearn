@@ -6,3 +6,4 @@ const collaboration_prac = {
 
 let identifier = "1st_ver_control";
 let change_in_github_remote_repo = "log in the remote repo";
+let third_change_in_local = "local change";
